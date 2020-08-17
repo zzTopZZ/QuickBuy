@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "SqlServerConnectio": "",
+    "QuickBuyBD": "server=localhost;uid=root;pwd=renatizz;database=QuickBuyBD"
+  } 
+}
